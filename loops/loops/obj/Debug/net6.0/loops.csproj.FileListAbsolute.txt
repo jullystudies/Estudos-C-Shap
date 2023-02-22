@@ -1,0 +1,15 @@
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\bin\Debug\net6.0\loops.exe
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\bin\Debug\net6.0\loops.deps.json
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\bin\Debug\net6.0\loops.runtimeconfig.json
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\bin\Debug\net6.0\loops.dll
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\bin\Debug\net6.0\loops.pdb
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\obj\Debug\net6.0\loops.csproj.AssemblyReference.cache
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\obj\Debug\net6.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\obj\Debug\net6.0\loops.AssemblyInfoInputs.cache
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\obj\Debug\net6.0\loops.AssemblyInfo.cs
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\obj\Debug\net6.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\obj\Debug\net6.0\loops.dll
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\obj\Debug\net6.0\refint\loops.dll
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\obj\Debug\net6.0\loops.pdb
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\obj\Debug\net6.0\loops.genruntimeconfig.cache
+C:\Users\jully\OneDrive\Documents\ESTUDOS\Estudos-C-Shap\loops\loops\obj\Debug\net6.0\ref\loops.dll
