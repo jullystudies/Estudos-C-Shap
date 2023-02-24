@@ -1,15 +1,17 @@
-﻿namespace loops
+﻿using System;
+
+namespace loops
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int a = 5;
-            int b = 6;
-            if (a + b > 10)
-                Console.WriteLine("The answer is greater than 10");
-            else
-                Console.WriteLine("The answer is not greater than 10");
+            int counter = 0;
+            while (true)
+            {
+                Console.WriteLine($"Hello World! The counter is {counter}");
+                counter++;
+            }
         }
     }
 }
